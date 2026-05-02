@@ -1,0 +1,5 @@
+1. Highest sales region: West
+2. Lowest sales region: South
+3. Top category by sales: Technology
+4. Top segment by sales: Consumer
+5. Overall profit is positive
